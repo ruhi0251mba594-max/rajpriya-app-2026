@@ -1,0 +1,6 @@
+{
+  "name": "Rajpriya",
+  "description": "Student-focused local service discovery and booking platform for DGU/DBS Global University MBA students living near Raipur Road.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
